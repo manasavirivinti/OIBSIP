@@ -96,11 +96,3 @@ import React , {useState} from "react";
      )
  }
  export default Home;
-//  function home(){
-//     return(
-//         <div>
-//             home
-//         </div>
-//     )
-//  }
-//  export default home;
